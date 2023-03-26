@@ -1,0 +1,1 @@
+web gunicorn django_lsms.wsgi:application --log-
